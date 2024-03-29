@@ -346,11 +346,15 @@ hr{
         margin:1rem 0;
     }
 
+    body{
+        overflow-x: hidden;
+    }
+
 }
 
 @media (min-width: 899px){
     .mobile{
         display: none;
     }    
-    
+
 }
